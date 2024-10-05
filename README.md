@@ -19,6 +19,6 @@
 - [ ] MoE
 - [ ] Sparse Attention
 - [ ] 3D point cloud/3D CNN
-- [ ] GNN
+- [ ] GNN (mch work in process)
 - [ ] 传统卷积
 - [ ] others
