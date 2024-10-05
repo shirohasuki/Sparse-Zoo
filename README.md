@@ -1,8 +1,8 @@
-## Sparse Zoo
+# Sparse Zoo
 
-### How to contribute
+## How to contribute
 
-1.fork本仓库的add_example分支，在本地添加新workload
+1.fork本仓库的add_workload分支，在本地新建一个文件夹添加新的workload
 
 2.添加readme，说明怎么使用代码（如,如何提取矩阵乘）
 
@@ -12,7 +12,9 @@
 
 5.提交pr :blush:
 
-### TBC
+
+
+## TBC
 - [ ] LLM KVCache、QKV
 - [ ] MoE
 - [ ] Sparse Attention
