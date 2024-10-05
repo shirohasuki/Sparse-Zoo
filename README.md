@@ -2,7 +2,7 @@
 
 ### How to contribute
 
-1.fork本仓库的add_example分支，在本地添加新workload
+1.fork本仓库的add_workload分支，在本地新建一个文件夹添加新的workload
 
 2.添加readme，说明怎么使用代码（如,如何提取矩阵乘）
 
@@ -11,6 +11,8 @@
 4.你可以添加个licence加上你的名字或者网名啥的，我们最后会一起合并到实验室仓库。
 
 5.提交pr :blush:
+
+
 
 ### TBC
 - [ ] LLM KVCache、QKV
