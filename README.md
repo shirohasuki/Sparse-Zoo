@@ -1,4 +1,5 @@
 # Sparse Zoo
+This repository is used to collect and store workloads for various sparse algorithms.
 
 ## How to contribute
 
@@ -19,6 +20,6 @@
 - [ ] MoE
 - [ ] Sparse Attention
 - [ ] 3D point cloud/3D CNN
-- [ ] GNN (mch work in process)
+- [x] GNN 
 - [ ] 传统卷积
 - [ ] others
