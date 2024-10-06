@@ -1,0 +1,4 @@
+mock
+wheel
+torch_geometric
+torch < 2
