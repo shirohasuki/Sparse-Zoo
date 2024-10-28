@@ -1,0 +1,3 @@
+打开C:\Users\Lenovo\Documents\GitHub\Sparse-z001\Sparse-Zoo\sparse-attention\GSABT\model\T_MPBTCN.py
+在class Spatial中的forward函数中的sparse_attention矩阵为稀疏矩阵,v为值矩阵,sparse_out为两者的乘积;
+在文件最后的注释加上了如何提取矩阵的代码
