@@ -1,0 +1,5 @@
+在quant.py中可以找到
+输入矩阵 x：这是模型的输入特征矩阵。
+稀疏权重矩阵：这是由 self.qweight 和 self.lookup_table 组成的稀疏矩阵。
+如果启用了稀疏表示，还会使用 self.rows、self.cols 和 self.vals 来表示稀疏矩阵的非零元素。
+在howtosave中说明了如何创建实例并提取为csv文件
